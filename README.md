@@ -69,14 +69,14 @@ Brief instructions:
   ```
   10) Press the **Execute** button
   11) Scroll down and copy the contents of the `access_token`:
-  ```json
+
     "access_token": "---ThisIsYourScriptToken---",
+
     ^^^ Use this Token in your script ^^^
-  ```
-  ```json
-    Locate in your Python script and paste your token:
+    Locate `XIQ_Token` in your Python script and paste your token:
+
     XIQ_Token = "---ThisIsYourScriptToken---"
-  ```
+
 
 ## Example XLSX Template:
 
