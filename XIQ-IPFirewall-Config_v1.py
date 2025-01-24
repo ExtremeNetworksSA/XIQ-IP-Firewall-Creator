@@ -49,7 +49,7 @@ warnings.filterwarnings("ignore", category=UserWarning, module='openpyxl') # Sup
 # XIQ_password = getpass.getpass("Password: ")
 
 ## 3) TOKEN generation from api.extremecloudiq.com (Swagger). Must have empty username and password variables (Uncomment 3 total lines below).  Enter XIQ Token within "" only.
-# XIQ_Token = "XXXXXXXXXXXX"
+XIQ_Token = "XXXXXXXXXXXX"
 XIQ_username = ""
 XIQ_password = ""
 ##Authentication Options END
